@@ -1,0 +1,1 @@
+var json_BERRYBOUY_1 = {"type":"FeatureCollection","name":"BERRYBOUY_1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"AGENCE":"BERRY BOUY"},"geometry":{"type":"Point","coordinates":[2.289828241348662,47.11283814688192]}}]}
